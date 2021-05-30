@@ -1,5 +1,5 @@
 # RMS-Application
-Rate Application Management Application
+Rate Management Application
 =================================================
 
 ### Steps for running application and test cases
